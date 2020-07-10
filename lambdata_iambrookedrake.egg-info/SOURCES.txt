@@ -1,0 +1,11 @@
+README.md
+setup.py
+lambdata_iambrookedrake.egg-info/PKG-INFO
+lambdata_iambrookedrake.egg-info/SOURCES.txt
+lambdata_iambrookedrake.egg-info/dependency_links.txt
+lambdata_iambrookedrake.egg-info/top_level.txt
+my_lambdata/AddressSplit.py
+my_lambdata/TrainValTest.py
+my_lambdata/__init__.py
+my_lambdata/my_ds_utilities.py
+my_lambdata/test_function.py
