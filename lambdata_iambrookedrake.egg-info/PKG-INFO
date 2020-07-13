@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: lambdata-iambrookedrake
-Version: 0.0.3
+Version: 0.1.1
 Summary: Common DS Utilities
-Home-page: https://github.com/iambrookedrake/lambdata-iambrookedrake
+Home-page: https://github.com/iambrookedrake/lambdata_iambrookedrake
 Author: Brooke Drake
 Author-email: iambrookedrake@gmail.com
 License: UNKNOWN
@@ -10,7 +10,9 @@ Description: # lambdata-iambrookedrake
         
         ## Installation
         
-        TODO
+        TrainValTest requires installation of sklearn
+        
+        AddressSplit requires installation of usaddress
         
         ## Usage
         
