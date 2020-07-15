@@ -77,3 +77,4 @@ if __name__ == "__main__":
     splitter = My_Data_Splitter(df=df, features=['ash','hue'], target='target')
     X_train, X_val, X_test, y_train, y_val, t_test = splitter.train_validation_test_split()
     splitter.print_split_summary(X_train, X_val, X_test)
+    
