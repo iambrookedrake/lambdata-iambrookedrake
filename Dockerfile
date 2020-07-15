@@ -13,5 +13,6 @@ RUN apt-get update && \
   apt-get upgrade -y && \
   apt-get install python3-pip curl -y && \
   pip3 install pipenv && \
-  pipenv install pandas 
+  pipenv install pandas && \
+  #pip3 install -i https://test.pypi.org/simple/ lambdata-dspt6==0.0.2
 
