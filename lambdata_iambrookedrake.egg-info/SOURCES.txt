@@ -3,6 +3,7 @@ setup.py
 lambdata_iambrookedrake/AddressSplit.py
 lambdata_iambrookedrake/TrainValTest.py
 lambdata_iambrookedrake/__init__.py
+lambdata_iambrookedrake/ds_utilities.py
 lambdata_iambrookedrake/test_function.py
 lambdata_iambrookedrake.egg-info/PKG-INFO
 lambdata_iambrookedrake.egg-info/SOURCES.txt
