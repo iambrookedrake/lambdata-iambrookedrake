@@ -1,10 +1,14 @@
 import usaddress
 # Split address into multiple columns
+from pdb import set_trace as breakpoint
 
+class Address():
+    def __init__(self, address):
+        self.address = address
 
-def AddressSplit(Address):
-    return usaddress.tag(Address)
+    def address_split(address):
+        return usaddress.tag(address)
 
 if __name__ == '__main__':
-    Address = input("Address Column: ")
-    print(usaddress.tag(Address))
+    address = input("Address Column: ")
+    print(usaddress.tag(address))
