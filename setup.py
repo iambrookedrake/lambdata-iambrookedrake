@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata_iambrookedrake",
-    version="0.1.1",
+    version="0.1.2",
     author="Brooke Drake",
     author_email="iambrookedrake@gmail.com",
     description="Common DS Utilities",

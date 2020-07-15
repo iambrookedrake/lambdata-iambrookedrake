@@ -2,10 +2,6 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_wine
 from pdb import set_trace as breakpoint
-
-#import ipython.ipapi
-#IPython = IPython.ipapi.get()
-
 from IPython.display import display
 
 
