@@ -9,5 +9,5 @@ def address_split(address):
 
 
 if __name__ == '__main__':
-    address = input("Address Column: ")
+    address = input("Address To Split: ")
     print(usaddress.tag(address))
