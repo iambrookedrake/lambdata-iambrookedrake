@@ -1,5 +1,5 @@
 import unittest
-from lambdata_iambrookedrake.postISA import TakeHomePay
+from postISA import TakeHomePay
 
 salary = 50000
 taxrate = 20
