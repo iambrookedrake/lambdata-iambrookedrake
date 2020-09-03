@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-class TakeHomePay:
+class TakeHomePay():
     # Accepts input for 'Salary Offer' and 'Tax Rate %' to provide
     # Annual, Monthly, and Weekly take home pay after taxes and
     # Lambda ISA deductions
