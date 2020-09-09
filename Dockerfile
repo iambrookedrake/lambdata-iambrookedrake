@@ -16,5 +16,5 @@ RUN apt-get update && \
   pipenv install pandas
 
 ##My Lambdata package
-RUN pipenv install -i https://test.pypi.org/simple/ lambdata-iambrookedrake==0.1.5 && \
+RUN pipenv install -i https://test.pypi.org/simple/ lambdata-iambrookedrake==0.2.2 && \
   pip install usaddress
